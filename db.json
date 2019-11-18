@@ -1,8 +1,26 @@
 {
-  "posts": [
+  "branch_location": [
     {
       "id": 1,
-      "title": "hello"
+      "branch_name": "SPYSS YOGA (Free Yoga Since 1980) : Ganesha Shaake, BTM 2nd Stage",
+      "contact_number":"8660629036",
+      "branch_timings":"5:45–7AM",
+      "branch_type":"General",
+      "branch_address":"Vigneshwara Temple,, 4th Cross Road, BTM 2nd Stage, Bengaluru, Karnataka 560068",
+      "latitude":"12.912516",
+      "longitude":"77.613719",
+      "place_id":12345678
+    },
+     {
+      "id": 2,
+      "branch_name": "SPYSS YOGA (Free Yoga Since 1980) : Ruckmini Branch, RR Nagar",
+      "contact_number":"90190 63826",
+      "branch_timings":" 5:30–7am; 8:30–10am; 11am–12:30pm; 4–5:30pm",
+      "branch_type":"General",
+      "branch_address":"1st Cross, Kempegowda Rd, Sachidananda Nagar, RR Nagar, Bengaluru, Karnataka 560098",
+      "latitude":"12.912516",
+      "longitude":"77.613719",
+      "place_id":12345678
     }
   ],
   "profile": {
