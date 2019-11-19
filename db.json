@@ -9,7 +9,7 @@
       "branchAddress":"Vigneshwara Temple,, 4th Cross Road, BTM 2nd Stage, Bengaluru, Karnataka 560068",
       "latitude":12.912516,
       "longitude":77.613719,
-      "placeId":12345678
+      "placeId":"ChIJVVXFWfsUrjsRPeLcUVTZ8qA"
     },
      {
       "id": 2,
@@ -20,7 +20,7 @@
       "branchAddress":"1st Cross, Kempegowda Rd, Sachidananda Nagar, RR Nagar, Bengaluru, Karnataka 560098",
       "latitude":12.912516,
       "longitude":77.613719,
-      "placeId":12345678
+      "placeId":"ChIJb6nlMao_rjsRmMppsXh4qEA"
     }
   ],
   "profile": {
